@@ -1,0 +1,18 @@
+@font-face {
+    font-family:'roboto';
+    src:url('Roboto-Thin-webfont.woff') format('woff');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family:'roboto';
+    src:url('Roboto-Bold-webfont.woff') format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family:'roboto';
+    src:url('Roboto-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+}
+
